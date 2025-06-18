@@ -44,18 +44,12 @@
 
 <h2 align="center">📂 Cybersecurity Projects & Reports 📂</h2>
 <p align="center">
-  This repository contains a collection of my cybersecurity work, including:
+  This repository contains a collection of my cybersecurity work
 </p>
 
-<ul>
-  <li>🔸 <strong>Penetration testing scripts</strong> written in Python and Bash</li>
-  <li>🔸 <strong>Reverse engineering writeups</strong> and malware analysis reports</li>
-  <li>🔸 <strong>Reports</strong> from TryHackMe, Hack The Box, and lab simulations</li>
-  <li>🔸 <strong>Cyber tools</strong> for reconnaissance, scanning, and exploitation</li>
-</ul>
 
 <p align="center">
-  🔐 All content is for educational purposes and red team learning.
+  🔐 All content is for educational purposes learning.
 </p>
 
 <hr>
