@@ -13,19 +13,16 @@
 <br>
 
 <p align="center">
-  Hi there 👋 I'm <b>Rayan Shahrani</b>, a passionate cybersecurity specialist with a strong interest in offensive security.
+  Hi I'm <b>Rayan </b>, a passionate cybersecurity specialist with a strong interest in offensive security.
   <br><br>
-  👨‍🎓 I graduated with a diploma in Cybersecurity from Imam Mohammad Ibn Saud Islamic University.  
+   I graduated with a diploma in Cybersecurity from Imam Mohammad Ibn Saud Islamic University.  
   <br>
-  🧠 Currently preparing for <code>eWAPT</code> and studying <code>eCIR</code>.  
   <br>
-  🧑‍💻 I love building tools, writing scripts, and creating reports related to penetration testing and malware analysis.
+   I want to develop myself to building tools, writing scripts, and creating reports related to penetration testing and malware analysis.
   <br>
-  🔍 I’ve completed over <b>70 rooms</b> on TryHackMe and participated in Hack The Box challenges.
+   I mostly work with Python, C, and JavaScript — and enjoy working on Linux, especially Arch Linux.
   <br>
-  💬 I mostly work with Python, C, and JavaScript — and enjoy working on Linux, especially Arch Linux.
-  <br>
-  🎯 Ask me anything about red teaming, reverse engineering, or C-based cyber projects.
+   Ask me anything about red teaming, reverse engineering, cyber projects.
   <br>
 </p>
 
