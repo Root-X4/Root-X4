@@ -1,9 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Root-X4.Root-X4">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Rayan+Shahrani!;Cybersecurity+is+my+world.;Red+Teaming+enthusiast+🕵‍♂;&center=true&size=30">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0066FF&center=true&vCenter=true&width=700&lines=I+don%27t+wait+for+defense." alt="Defense" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=I+start+the+attack." alt="Attack" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Purple+Team" alt="Purple Team" />
 </h1>
 
 <h5 align="center">
