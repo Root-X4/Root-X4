@@ -1,11 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Root-X4.Root-X4">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0066FF&center=true&vCenter=true&width=700&lines=I+don%27t+wait+for+defense." alt="Defense" />
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=I+start+the+attack." alt="Attack" />
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Purple+Team" alt="Purple Team" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Purple+Teaming" alt="Purple Teaming" />
 </h1>
 
 <h5 align="center">
